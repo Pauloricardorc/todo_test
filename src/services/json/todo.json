@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "author": "Paulo.Claro",
+      "title": "New Task",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
